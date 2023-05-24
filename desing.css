@@ -1,0 +1,17 @@
+html{
+
+}
+
+body{
+    background-image: -webkit-image-set(WhatsApp Image 2023-03-04 at 13.36.47.jpg);
+}
+
+.centered {
+
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    height: 10vh; /* set the height of the container to 100% viewport height */
+
+    
+}
